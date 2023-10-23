@@ -1,6 +1,6 @@
 # :tv: Hilink
 <a name="readme-top"></a>
-show search engine that showcases information related to different television series.
+Fully Responsive Modern UI/UX Website.
 
 ✅ Users can search TV shows & movies and watch the trailer..  
 ✅ Users can explore different TV shows and filter them by genre: Top Rated, Trending Now, Thrillers, etc.  
@@ -25,11 +25,9 @@ I developed this project over the course of approximately A month and a half. In
 * [![Javascript][Javascript.js]][Javascript-url]
 * [![firebase][firebase.js]][firebase-url]
 * [![Tailwindcss][tailwindcss.js]][tailwindcss-url]
-- Stripe API for payments
 - tailwind for (CSS grid & CSS Flexbox & Media queries)
-- Firebase authentication services & Firestore database
-- Font Awesome (Icons)
-In order to search and obtain information about TV shows, I used the TMDB API and the OMDB API.
+
+
 - <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
