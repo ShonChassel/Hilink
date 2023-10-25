@@ -2,12 +2,6 @@
 <a name="readme-top"></a>
 Fully Responsive Modern UI/UX Website.
 
-✅ Users can search TV shows & movies and watch the trailer..  
-✅ Users can explore different TV shows and filter them by genre: Top Rated, Trending Now, Thrillers, etc.  
-✅ Users can access information related to a specific TV show including Genres, ratings, Match, trailer, and more.  
-✅ Users can add or delete TV shows & movies from their personal WishList.
-
-
 <br/>
 :link: Link to the live project: [Link](https://hilink-il.vercel.app/)  
 <br/>
